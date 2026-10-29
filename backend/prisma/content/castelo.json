@@ -1,0 +1,67 @@
+{
+  "slug": "castelo",
+  "coverage": {
+    "real": 0,
+    "override": 4,
+    "fallback": 0,
+    "total": 4
+  },
+  "pois": {
+    "1": {
+      "lore": "Ponto de partida da rede de trilhos da Pena. Daqui partem os caminhos para o Palácio da Pena e para as muralhas do Castelo dos Mouros, no coração da Paisagem Cultural de Sintra, classificada Património Mundial pela UNESCO em 1995.",
+      "loreSource": "Wikipédia — Paisagem Cultural de Sintra",
+      "origin": "override",
+      "titleEn": "Pena / Mouros / São Pedro",
+      "loreUrl": "https://pt.wikipedia.org/wiki/Paisagem_Cultural_de_Sintra",
+      "loreEn": "Starting point of the Pena trail network. From here, paths lead to the Pena Palace and to the walls of the Castelo dos Mouros, in the heart of the Sintra Cultural Landscape, a UNESCO World Heritage Site since 1995.",
+      "loreSourceEn": "Wikipedia — Sintra Cultural Landscape",
+      "loreUrlEn": "https://en.wikipedia.org/wiki/Sintra_Cultural_Landscape",
+      "wikipedia": "Palácio Nacional da Pena",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Sintra_-_Palacio_da_Pena_%2820332995770%29.jpg/1280px-Sintra_-_Palacio_da_Pena_%2820332995770%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "imageCredit": "Wikimedia Commons"
+    },
+    "2": {
+      "lore": "A lápide recorda: «A D. Fernando II, iniciador da plantação deste Parque de Aclimação Florestal (1839)». Foi D. Fernando II, o rei artista, quem mandou erguer o Palácio da Pena sobre as ruínas do antigo mosteiro hieronimite, dando a Sintra o seu ex-libris do Romantismo.",
+      "loreSource": "Inscrição no local (OSM) + Wikipédia",
+      "origin": "override",
+      "titleEn": "King Ferdinand II",
+      "loreUrl": "https://pt.wikipedia.org/wiki/Fernando_II_de_Portugal",
+      "loreEn": "The plaque reads: “To Ferdinand II, who began the planting of this Acclimatisation Forest Park (1839)”. It was Ferdinand II, the artist-king, who built the Pena Palace over the ruins of the old Hieronymite monastery, giving Sintra its Romantic masterpiece.",
+      "loreSourceEn": "On-site inscription (OSM) + Wikipedia",
+      "loreUrlEn": "https://en.wikipedia.org/wiki/Ferdinand_II_of_Portugal",
+      "wikipedia": "Fernando II de Portugal",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Ferdinand_II%2C_King_Consort_of_Portugal_1861.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "imageCredit": "Wikimedia Commons"
+    },
+    "3": {
+      "lore": "O Poço Iniciático desce quase 27 metros em espiral pela rocha, na Quinta da Regaleira. Diz a tradição que aqui se realizavam rituais de iniciação: desce-se às trevas para renascer à luz, saindo por túneis que ligam aos jardins enevotados.",
+      "loreSource": "Wikipédia — Quinta da Regaleira",
+      "origin": "override",
+      "titleEn": "Initiation Well",
+      "loreUrl": "https://pt.wikipedia.org/wiki/Quinta_da_Regaleira",
+      "loreEn": "The Initiation Well spirals almost 27 metres down through the rock at Quinta da Regaleira. Tradition says initiation rituals took place here: you descend into darkness to be reborn into the light, leaving through tunnels that link the misty gardens.",
+      "loreSourceEn": "Wikipedia — Quinta da Regaleira",
+      "loreUrlEn": "https://en.wikipedia.org/wiki/Quinta_da_Regaleira",
+      "wikipedia": "Quinta da Regaleira",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Exterior_of_the_Quinta_da_Regaleira_20.jpg/1280px-Exterior_of_the_Quinta_da_Regaleira_20.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "imageCredit": "Wikimedia Commons"
+    },
+    "4": {
+      "lore": "Nos caminhos que sobem ao Castelo dos Mouros, a pedra e a fé cruzam-se: a fortaleza muçulmana, erguida entre os séculos VIII e IX, foi conquistada por Afonso Henriques em 1147, e as encostas da serra guardam marcos devocionais como este.",
+      "loreSource": "Wikipédia — Castelo dos Mouros",
+      "origin": "override",
+      "titleEn": "Statue of Faith",
+      "loreUrl": "https://pt.wikipedia.org/wiki/Castelo_dos_Mouros",
+      "loreEn": "On the paths climbing to the Castelo dos Mouros, stone and faith meet: the Moorish fortress, built between the 8th and 9th centuries, was taken by Afonso Henriques in 1147, and the hillsides still keep devotional markers like this one.",
+      "loreSourceEn": "Wikipedia — Castle of the Moors",
+      "loreUrlEn": "https://en.wikipedia.org/wiki/Castle_of_the_Moors",
+      "wikipedia": "Castelo dos Mouros"
+    }
+  },
+  "quest": {
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Sintra_-_Palacio_da_Pena_%2820332995770%29.jpg/1280px-Sintra_-_Palacio_da_Pena_%2820332995770%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "imageCredit": "Wikimedia Commons",
+    "titleEn": "Castle Walls",
+    "descriptionEn": "Walk the real trails around the Castelo dos Mouros, the 8th-century Moorish fortress that has watched over the hills for more than a thousand years."
+  }
+}

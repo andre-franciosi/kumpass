@@ -1,0 +1,37 @@
+# Node
+node_modules/
+dist/
+*.log
+
+# Env
+.env
+.env.local
+
+# Prisma
+backend/prisma/migrations/*_dev/
+
+# Flutter
+mobile/.dart_tool/
+mobile/build/
+mobile/.flutter-plugins
+mobile/.flutter-plugins-dependencies
+
+# Android
+*.jks
+*.keystore
+mobile/android/key.properties
+mobile/android/.gradle/
+mobile/android/.kotlin/
+mobile/android/local.properties
+mobile/android/app/build/
+mobile/android/build/
+*.iml
+
+# iOS (not configured yet, but keep future-safe)
+mobile/ios/Pods/
+mobile/ios/.symlinks/
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store

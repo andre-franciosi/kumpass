@@ -1,0 +1,202 @@
+{
+  "sintra": {
+    "Pena / Mouros / São Pedro": {
+      "titleEn": "Pena / Mouros / São Pedro",
+      "lore": "Ponto de partida da rede de trilhos da Pena. Daqui partem os caminhos para o Palácio da Pena e para as muralhas do Castelo dos Mouros, no coração da Paisagem Cultural de Sintra, classificada Património Mundial pela UNESCO em 1995.",
+      "loreSource": "Wikipédia — Paisagem Cultural de Sintra",
+      "loreUrl": "https://pt.wikipedia.org/wiki/Paisagem_Cultural_de_Sintra",
+      "loreEn": "Starting point of the Pena trail network. From here, paths lead to the Pena Palace and to the walls of the Castelo dos Mouros, in the heart of the Sintra Cultural Landscape, a UNESCO World Heritage Site since 1995.",
+      "loreSourceEn": "Wikipedia — Sintra Cultural Landscape",
+      "loreUrlEn": "https://en.wikipedia.org/wiki/Sintra_Cultural_Landscape",
+      "wikipedia": "Palácio Nacional da Pena"
+    },
+    "D. Fernando II": {
+      "titleEn": "King Ferdinand II",
+      "lore": "A lápide recorda: «A D. Fernando II, iniciador da plantação deste Parque de Aclimação Florestal (1839)». Foi D. Fernando II, o rei artista, quem mandou erguer o Palácio da Pena sobre as ruínas do antigo mosteiro hieronimite, dando a Sintra o seu ex-libris do Romantismo.",
+      "loreSource": "Inscrição no local (OSM) + Wikipédia",
+      "loreUrl": "https://pt.wikipedia.org/wiki/Fernando_II_de_Portugal",
+      "loreEn": "The plaque reads: “To Ferdinand II, who began the planting of this Acclimatisation Forest Park (1839)”. It was Ferdinand II, the artist-king, who built the Pena Palace over the ruins of the old Hieronymite monastery, giving Sintra its Romantic masterpiece.",
+      "loreSourceEn": "On-site inscription (OSM) + Wikipedia",
+      "loreUrlEn": "https://en.wikipedia.org/wiki/Ferdinand_II_of_Portugal",
+      "wikipedia": "Fernando II de Portugal"
+    },
+    "Miradouro da Vigia": {
+      "titleEn": "Vigia Viewpoint",
+      "lore": "Daqui domina-se a vila histórica de Sintra e a serra que os romanos chamavam «Montanha da Lua». No alto da serra, a Cruz Alta marca os 529 metros do ponto mais alto, junto ao Palácio da Pena.",
+      "loreSource": "Wikipédia — Serra de Sintra",
+      "loreUrl": "https://pt.wikipedia.org/wiki/Serra_de_Sintra",
+      "loreEn": "From here you look over the historic town of Sintra and the hills the Romans called the “Mountain of the Moon”. At the top, the Cruz Alta marks the highest point at 529 metres, next to the Pena Palace.",
+      "loreSourceEn": "Wikipedia — Sintra Mountains",
+      "loreUrlEn": "https://en.wikipedia.org/wiki/Sintra_Mountains",
+      "wikipedia": "Serra de Sintra"
+    },
+    "Doutor Gregorio Rafael da Silva d'Almeida": {
+      "titleEn": "Dr. Gregorio Rafael da Silva d'Almeida",
+      "lore": "Busto em memória do Dr. Gregorio Rafael da Silva d'Almeida, homenageado na serra de Sintra. As estátuas de rua guardam histórias de quem serviu a comunidade — aproxima-te e lê a inscrição no pedestal.",
+      "loreSource": "Curadoria Kumpas (monumento local)",
+      "loreEn": "Bust in memory of Dr. Gregorio Rafael da Silva d'Almeida, honoured in the Sintra hills. Street statues keep the stories of those who served the community — step closer and read the inscription on the pedestal.",
+      "loreSourceEn": "Kumpas curation (local monument)"
+    }
+  },
+  "castelo": {
+    "Pena / Mouros / São Pedro": {
+      "titleEn": "Pena / Mouros / São Pedro",
+      "lore": "Ponto de partida da rede de trilhos da Pena. Daqui partem os caminhos para o Palácio da Pena e para as muralhas do Castelo dos Mouros, no coração da Paisagem Cultural de Sintra, classificada Património Mundial pela UNESCO em 1995.",
+      "loreSource": "Wikipédia — Paisagem Cultural de Sintra",
+      "loreUrl": "https://pt.wikipedia.org/wiki/Paisagem_Cultural_de_Sintra",
+      "loreEn": "Starting point of the Pena trail network. From here, paths lead to the Pena Palace and to the walls of the Castelo dos Mouros, in the heart of the Sintra Cultural Landscape, a UNESCO World Heritage Site since 1995.",
+      "loreSourceEn": "Wikipedia — Sintra Cultural Landscape",
+      "loreUrlEn": "https://en.wikipedia.org/wiki/Sintra_Cultural_Landscape",
+      "wikipedia": "Palácio Nacional da Pena"
+    },
+    "D. Fernando II": {
+      "titleEn": "King Ferdinand II",
+      "lore": "A lápide recorda: «A D. Fernando II, iniciador da plantação deste Parque de Aclimação Florestal (1839)». Foi D. Fernando II, o rei artista, quem mandou erguer o Palácio da Pena sobre as ruínas do antigo mosteiro hieronimite, dando a Sintra o seu ex-libris do Romantismo.",
+      "loreSource": "Inscrição no local (OSM) + Wikipédia",
+      "loreUrl": "https://pt.wikipedia.org/wiki/Fernando_II_de_Portugal",
+      "loreEn": "The plaque reads: “To Ferdinand II, who began the planting of this Acclimatisation Forest Park (1839)”. It was Ferdinand II, the artist-king, who built the Pena Palace over the ruins of the old Hieronymite monastery, giving Sintra its Romantic masterpiece.",
+      "loreSourceEn": "On-site inscription (OSM) + Wikipedia",
+      "loreUrlEn": "https://en.wikipedia.org/wiki/Ferdinand_II_of_Portugal",
+      "wikipedia": "Fernando II de Portugal"
+    },
+    "Estátua da Fé": {
+      "titleEn": "Statue of Faith",
+      "lore": "Nos caminhos que sobem ao Castelo dos Mouros, a pedra e a fé cruzam-se: a fortaleza muçulmana, erguida entre os séculos VIII e IX, foi conquistada por Afonso Henriques em 1147, e as encostas da serra guardam marcos devocionais como este.",
+      "loreSource": "Wikipédia — Castelo dos Mouros",
+      "loreUrl": "https://pt.wikipedia.org/wiki/Castelo_dos_Mouros",
+      "loreEn": "On the paths climbing to the Castelo dos Mouros, stone and faith meet: the Moorish fortress, built between the 8th and 9th centuries, was taken by Afonso Henriques in 1147, and the hillsides still keep devotional markers like this one.",
+      "loreSourceEn": "Wikipedia — Castle of the Moors",
+      "loreUrlEn": "https://en.wikipedia.org/wiki/Castle_of_the_Moors",
+      "wikipedia": "Castelo dos Mouros"
+    },
+    "Poço Iniciático": {
+      "titleEn": "Initiation Well",
+      "lore": "O Poço Iniciático desce quase 27 metros em espiral pela rocha, na Quinta da Regaleira. Diz a tradição que aqui se realizavam rituais de iniciação: desce-se às trevas para renascer à luz, saindo por túneis que ligam aos jardins enevotados.",
+      "loreSource": "Wikipédia — Quinta da Regaleira",
+      "loreUrl": "https://pt.wikipedia.org/wiki/Quinta_da_Regaleira",
+      "loreEn": "The Initiation Well spirals almost 27 metres down through the rock at Quinta da Regaleira. Tradition says initiation rituals took place here: you descend into darkness to be reborn into the light, leaving through tunnels that link the misty gardens.",
+      "loreSourceEn": "Wikipedia — Quinta da Regaleira",
+      "loreUrlEn": "https://en.wikipedia.org/wiki/Quinta_da_Regaleira",
+      "wikipedia": "Quinta da Regaleira"
+    }
+  },
+  "arrabida": {
+    "Alto do Monte Abraão": {
+      "titleEn": "Monte Abraão Summit",
+      "lore": "Um dos elevados da serra da Arrábida, coberto de medronheiros, azevinho e pinheiros-bravos. O Parque Natural da Arrábida, criado em 1976, protege aqui um dos últimos matos mediterrânicos originais de Portugal.",
+      "loreSource": "Wikipédia — Parque Natural da Arrábida",
+      "loreUrl": "https://pt.wikipedia.org/wiki/Parque_Natural_da_Arr%C3%A1bida",
+      "loreEn": "One of the high points of the Arrábida hills, covered with strawberry trees, holly and Mediterranean pines. Arrábida Natural Park, created in 1976, protects one of Portugal's last patches of original Mediterranean scrubland.",
+      "loreSourceEn": "Wikipedia — Arrábida Natural Park",
+      "loreUrlEn": "https://en.wikipedia.org/wiki/Arr%C3%A1bida_Natural_Park",
+      "wikipedia": "Parque Natural da Arrábida"
+    },
+    "Formosinho": {
+      "titleEn": "Formosinho Peak",
+      "lore": "O Alto do Formosinho é o teto da Serra da Arrábida, com 501 metros de altitude. Do miradouro avistam-se o cabo Espichel, o Estuário do Sado e, em dias claros, toda a costa até Sesimbra.",
+      "loreSource": "Wikipédia — Serra da Arrábida",
+      "loreUrl": "https://pt.wikipedia.org/wiki/Serra_da_Arr%C3%A1bida",
+      "loreEn": "Alto do Formosinho is the roof of the Arrábida hills at 501 metres. From the viewpoint you can see Cape Espichel, the Sado estuary and, on clear days, the whole coast down to Sesimbra.",
+      "loreSourceEn": "Wikipedia — Arrábida Mountains",
+      "loreUrlEn": "https://en.wikipedia.org/wiki/Arr%C3%A1bida_Mountains"
+    },
+    "Fonte do Veado": {
+      "titleEn": "Fonte do Veado Spring",
+      "lore": "Nascente entre medronheiros e pinheiros-bravos. A água sempre marcou a vida na serra: conventos e pastores dependiam de fontes como esta nos meses secos do verão mediterrânico.",
+      "loreSource": "ICNF — Parque Natural da Arrábida",
+      "loreEn": "A spring among strawberry trees and Mediterranean pines. Water has always shaped life in these hills: convents and shepherds depended on springs like this through the dry Mediterranean summer months.",
+      "loreSourceEn": "ICNF — Arrábida Natural Park"
+    }
+  },
+  "portinho": {
+    "Povoado da Serra da Cela": {
+      "titleEn": "Serra da Cela Settlement",
+      "lore": "Do topo da Serra da Cela, o olhar percorre a baía do Portinho e as falésias da serra a pique sobre o Atlântico. O topónimo «Povoado» recorda a ocupação antiga desta costa, entre pastores, coletores e pescadores.",
+      "loreSource": "Curadoria Kumpas (toponímia local)",
+      "loreEn": "From the top of Serra da Cela, the eye sweeps across Portinho bay and the cliffs plunging into the Atlantic. The place name “Povoado” recalls the ancient settlement of this coast by shepherds, foragers and fishermen.",
+      "loreSourceEn": "Kumpas curation (local toponymy)"
+    },
+    "Alto do Monte Abraão": {
+      "titleEn": "Monte Abraão Summit",
+      "lore": "Um dos elevados da serra da Arrábida, coberto de medronheiros, azevinho e pinheiros-bravos. O Parque Natural da Arrábida, criado em 1976, protege aqui um dos últimos matos mediterrânicos originais de Portugal.",
+      "loreSource": "Wikipédia — Parque Natural da Arrábida",
+      "loreUrl": "https://pt.wikipedia.org/wiki/Parque_Natural_da_Arr%C3%A1bida",
+      "loreEn": "One of the high points of the Arrábida hills, covered with strawberry trees, holly and Mediterranean pines. Arrábida Natural Park, created in 1976, protects one of Portugal's last patches of original Mediterranean scrubland.",
+      "loreSourceEn": "Wikipedia — Arrábida Natural Park",
+      "loreUrlEn": "https://en.wikipedia.org/wiki/Arr%C3%A1bida_Natural_Park",
+      "wikipedia": "Parque Natural da Arrábida"
+    }
+  },
+  "monsanto": {
+    "Miradouro do Moinho das Três Cruzes": {
+      "titleEn": "Três Cruzes Windmill Viewpoint",
+      "lore": "Os moinhos de vento marcaram os altos de Monsanto: moeram o trigo que abastecia Lisboa durante séculos. Junto ao Moinho das Três Cruzes, o miradouro abre a cidade até ao Tejo.",
+      "loreSource": "Wikipédia — Parque Florestal de Monsanto",
+      "loreUrl": "https://pt.wikipedia.org/wiki/Parque_Florestal_de_Monsanto",
+      "loreEn": "Windmills once defined the tops of Monsanto: they ground the wheat that fed Lisbon for centuries. Next to the Três Cruzes mill, the viewpoint opens the city all the way to the Tagus.",
+      "loreSourceEn": "Wikipedia — Monsanto Forest Park",
+      "loreUrlEn": "https://en.wikipedia.org/wiki/Monsanto_Forest_Park",
+      "wikipedia": "Parque Florestal de Monsanto"
+    },
+    "Centro de Comunicações de Dados e de Cifra da Marinha - Pólo Monsanto": {
+      "titleEn": "Navy Data & Cipher Communications Centre",
+      "lore": "Instalação da Marinha Portuguesa no alto do Parque Florestal. Os pontos mais altos de Monsanto sempre atraíram antenas e sinais: daqui domina-se Lisboa e o corredor do Tejo, porta de saída para o Atlântico.",
+      "loreSource": "Curadoria Kumpas (toponímia local)",
+      "loreEn": "A Portuguese Navy facility on top of the Forest Park. Monsanto's high points have always attracted antennas and signals: from here you command Lisbon and the Tagus corridor, the gateway to the Atlantic.",
+      "loreSourceEn": "Kumpas curation (local toponymy)"
+    },
+    "Miradouro Panorâmico do Monsanto": {
+      "titleEn": "Monsanto Panoramic Viewpoint",
+      "lore": "O Parque Florestal de Monsanto nasceu nos anos 1930, quando Lisboa plantou uma floresta inteira sobre a colina de granito para travar o avanço do betão. Deste miradouro panorâmico, a cidade revela-se do castelo ao rio.",
+      "loreSource": "Wikipédia — Parque Florestal de Monsanto",
+      "loreUrl": "https://pt.wikipedia.org/wiki/Parque_Florestal_de_Monsanto",
+      "loreEn": "Monsanto Forest Park was born in the 1930s, when Lisbon planted an entire forest over the granite hill to hold back concrete. From this panoramic viewpoint, the city unfolds from the castle to the river.",
+      "loreSourceEn": "Wikipedia — Monsanto Forest Park",
+      "loreUrlEn": "https://en.wikipedia.org/wiki/Monsanto_Forest_Park",
+      "wikipedia": "Parque Florestal de Monsanto"
+    },
+    "Alto da Serafina": {
+      "titleEn": "Serafina Heights",
+      "lore": "Um dos ângulos mais generosos da colina: o Tejo alarga até ao mar e as antenas de telecomunicações partilham o cume com os penedos de granito de Monsanto. É o último alto antes de o trilho voltar a descer.",
+      "loreSource": "Curadoria Kumpas (toponímia local)",
+      "loreEn": "One of the hill's most generous angles: the Tagus widens towards the sea and telecom antennas share the summit with Monsanto's granite boulders. It is the last high point before the trail descends again.",
+      "loreSourceEn": "Kumpas curation (local toponymy)"
+    }
+  },
+  "agua": {
+    "Pista Mata de São Domingos": {
+      "titleEn": "São Domingos Forest Track",
+      "lore": "A água moldou Monsanto: tanques, fontes e o vizinho Aqueduto das Águas Livres, concluído em 1748, que durante quase dois séculos abasteceu Lisboa. A pista florestal segue por entre pinheiros no espírito dessa memória.",
+      "loreSource": "Wikipédia — Aqueduto das Águas Livres",
+      "loreUrl": "https://pt.wikipedia.org/wiki/Aqueduto_das_%C3%81guas_Livres",
+      "loreEn": "Water shaped Monsanto: tanks, springs and the nearby Águas Livres Aqueduct, completed in 1748, which supplied Lisbon for nearly two centuries. This forest track winds through pine trees in that spirit.",
+      "loreSourceEn": "Wikipedia — Águas Livres Aqueduct",
+      "loreUrlEn": "https://en.wikipedia.org/wiki/%C3%81guas_Livres_Aqueduct",
+      "wikipedia": "Aqueduto das Águas Livres"
+    },
+    "Mata São Domingos de Benfica": {
+      "titleEn": "São Domingos de Benfica Woods",
+      "lore": "A Mata de São Domingos de Benfica é um dos recantos mais sombrios do Parque Florestal: pinheiros maduros, sombra constante e pistas tranquilas para caminhar longe do trânsito da cidade.",
+      "loreSource": "Wikipédia — Parque Florestal de Monsanto",
+      "loreUrl": "https://pt.wikipedia.org/wiki/Parque_Florestal_de_Monsanto",
+      "loreEn": "São Domingos de Benfica woods are one of the shadiest corners of the Forest Park: mature pines, constant shade and quiet tracks to walk far from the city's traffic.",
+      "loreSourceEn": "Wikipedia — Monsanto Forest Park",
+      "loreUrlEn": "https://en.wikipedia.org/wiki/Monsanto_Forest_Park",
+      "wikipedia": "Parque Florestal de Monsanto"
+    },
+    "Alto da Serafina": {
+      "titleEn": "Serafina Heights",
+      "lore": "Um dos ângulos mais generosos da colina: o Tejo alarga até ao mar e as antenas de telecomunicações partilham o cume com os penedos de granito de Monsanto. É o último alto antes de o trilho voltar a descer.",
+      "loreSource": "Curadoria Kumpas (toponímia local)",
+      "loreEn": "One of the hill's most generous angles: the Tagus widens towards the sea and telecom antennas share the summit with Monsanto's granite boulders. It is the last high point before the trail descends again.",
+      "loreSourceEn": "Kumpas curation (local toponymy)"
+    },
+    "Parque Recreativo da Serafina": {
+      "titleEn": "Serafina Recreation Park",
+      "lore": "O Parque Recreativo da Serafina é o ponto de encontro das famílias em Monsanto: merendas, sombra e espaço para correr. Deste parque parte uma das subidas mais agradáveis para o planalto.",
+      "loreSource": "Curadoria Kumpas (toponímia local)",
+      "loreEn": "Serafina Recreation Park is where families meet in Monsanto: picnics, shade and room to run. One of the pleasantest climbs to the plateau starts right here.",
+      "loreSourceEn": "Kumpas curation (local toponymy)"
+    }
+  }
+}

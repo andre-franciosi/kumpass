@@ -1,0 +1,228 @@
+{
+  "slug": "sintra",
+  "relationId": 2259794,
+  "relationName": "Pena",
+  "source": "© OpenStreetMap contributors (ODbL) — via Overpass API",
+  "trackPoints": [
+    [
+      38.793319,
+      -9.385264
+    ],
+    [
+      38.793927,
+      -9.386534
+    ],
+    [
+      38.793936,
+      -9.386696
+    ],
+    [
+      38.793672,
+      -9.386754
+    ],
+    [
+      38.794104,
+      -9.387327
+    ],
+    [
+      38.792568,
+      -9.386981
+    ],
+    [
+      38.792854,
+      -9.387297
+    ],
+    [
+      38.792292,
+      -9.387517
+    ],
+    [
+      38.792211,
+      -9.38769
+    ],
+    [
+      38.792503,
+      -9.387506
+    ],
+    [
+      38.792387,
+      -9.388035
+    ],
+    [
+      38.791841,
+      -9.388629
+    ],
+    [
+      38.791262,
+      -9.388746
+    ],
+    [
+      38.790226,
+      -9.389431
+    ],
+    [
+      38.789851,
+      -9.389136
+    ],
+    [
+      38.789592,
+      -9.389439
+    ],
+    [
+      38.78922,
+      -9.389322
+    ],
+    [
+      38.7886,
+      -9.387897
+    ],
+    [
+      38.787962,
+      -9.387498
+    ],
+    [
+      38.788445,
+      -9.385985
+    ],
+    [
+      38.789439,
+      -9.385724
+    ],
+    [
+      38.789976,
+      -9.385896
+    ],
+    [
+      38.790317,
+      -9.385574
+    ],
+    [
+      38.790639,
+      -9.384406
+    ],
+    [
+      38.78998,
+      -9.383344
+    ],
+    [
+      38.7891,
+      -9.383418
+    ],
+    [
+      38.788075,
+      -9.382755
+    ],
+    [
+      38.789955,
+      -9.382613
+    ],
+    [
+      38.790468,
+      -9.382242
+    ],
+    [
+      38.790604,
+      -9.381866
+    ],
+    [
+      38.791888,
+      -9.381749
+    ],
+    [
+      38.792321,
+      -9.381906
+    ],
+    [
+      38.79245,
+      -9.383415
+    ],
+    [
+      38.792301,
+      -9.384871
+    ],
+    [
+      38.792654,
+      -9.385342
+    ],
+    [
+      38.793958,
+      -9.384991
+    ],
+    [
+      38.795444,
+      -9.387089
+    ],
+    [
+      38.795855,
+      -9.389254
+    ],
+    [
+      38.79626,
+      -9.390393
+    ],
+    [
+      38.796885,
+      -9.390729
+    ]
+  ],
+  "bbox": {
+    "minLat": 38.786041,
+    "minLng": -9.395021,
+    "maxLat": 38.7983854,
+    "maxLng": -9.378781
+  },
+  "distanceKm": 3.7,
+  "elevationGainM": 250,
+  "pois": [
+    {
+      "order": 1,
+      "name": "Pena / Mouros / São Pedro",
+      "kind": "tourism=information",
+      "lore": "Um ponto de paragem onde a história da região está documentada e à espera de ser descoberta.",
+      "lat": 38.793703,
+      "lng": -9.386164,
+      "radiusMeters": 60,
+      "osmType": "node",
+      "osmId": 5156778022,
+      "wiki": {}
+    },
+    {
+      "order": 2,
+      "name": "D. Fernando II",
+      "kind": "historic=memorial",
+      "lore": "Um marco que resistiu ao tempo e ainda conta a história de quem por aqui passou.",
+      "lat": 38.787541,
+      "lng": -9.393221,
+      "radiusMeters": 60,
+      "osmType": "node",
+      "osmId": 4517259915,
+      "wiki": {
+        "inscription": "A D. fernando II / Iniciador da plantação deste / Parque de Aclimação Florestal / (1839) / Sintra Reconhecida / 1935"
+      }
+    },
+    {
+      "order": 3,
+      "name": "Miradouro da Vigia",
+      "kind": "tourism=viewpoint",
+      "lore": "Um miradouro que os locais guardam como segredo. A vista explica porque esta rota é memorável.",
+      "lat": 38.794665,
+      "lng": -9.380581,
+      "radiusMeters": 75,
+      "osmType": "node",
+      "osmId": 10263201509,
+      "wiki": {}
+    },
+    {
+      "order": 4,
+      "name": "Doutor Gregorio Rafael da Silva d'Almeida",
+      "kind": "tourism=artwork",
+      "lore": "Um ponto de interesse real desta trilha, marcado no mapa para explorares com atenção.",
+      "lat": 38.796555,
+      "lng": -9.38678,
+      "radiusMeters": 60,
+      "osmType": "node",
+      "osmId": 11065777992,
+      "wiki": {}
+    }
+  ]
+}

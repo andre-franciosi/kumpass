@@ -1,0 +1,38 @@
+{
+  "slug": "portinho",
+  "coverage": {
+    "real": 0,
+    "override": 2,
+    "fallback": 0,
+    "total": 2
+  },
+  "pois": {
+    "1": {
+      "lore": "Do topo da Serra da Cela, o olhar percorre a baía do Portinho e as falésias da serra a pique sobre o Atlântico. O topónimo «Povoado» recorda a ocupação antiga desta costa, entre pastores, coletores e pescadores.",
+      "loreSource": "Curadoria Kumpas (toponímia local)",
+      "origin": "override",
+      "titleEn": "Serra da Cela Settlement",
+      "loreEn": "From the top of Serra da Cela, the eye sweeps across Portinho bay and the cliffs plunging into the Atlantic. The place name “Povoado” recalls the ancient settlement of this coast by shepherds, foragers and fishermen.",
+      "loreSourceEn": "Kumpas curation (local toponymy)"
+    },
+    "2": {
+      "lore": "Um dos elevados da serra da Arrábida, coberto de medronheiros, azevinho e pinheiros-bravos. O Parque Natural da Arrábida, criado em 1976, protege aqui um dos últimos matos mediterrânicos originais de Portugal.",
+      "loreSource": "Wikipédia — Parque Natural da Arrábida",
+      "origin": "override",
+      "titleEn": "Monte Abraão Summit",
+      "loreUrl": "https://pt.wikipedia.org/wiki/Parque_Natural_da_Arr%C3%A1bida",
+      "loreEn": "One of the high points of the Arrábida hills, covered with strawberry trees, holly and Mediterranean pines. Arrábida Natural Park, created in 1976, protects one of Portugal's last patches of original Mediterranean scrubland.",
+      "loreSourceEn": "Wikipedia — Arrábida Natural Park",
+      "loreUrlEn": "https://en.wikipedia.org/wiki/Arr%C3%A1bida_Natural_Park",
+      "wikipedia": "Parque Natural da Arrábida",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Parque_Natural_da_Arr%C3%A1bida_.jpg/1280px-Parque_Natural_da_Arr%C3%A1bida_.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "imageCredit": "Wikimedia Commons"
+    }
+  },
+  "quest": {
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Parque_Natural_da_Arr%C3%A1bida_.jpg/1280px-Parque_Natural_da_Arr%C3%A1bida_.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "imageCredit": "Wikimedia Commons",
+    "titleEn": "Portinho Coast",
+    "descriptionEn": "A real coastal trail around Portinho da Arrábida, past the 16th-century Franciscan convent, Forte de Santa Maria and hidden beaches."
+  }
+}

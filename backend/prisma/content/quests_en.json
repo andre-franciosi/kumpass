@@ -1,0 +1,26 @@
+{
+  "sintra": {
+    "title": "Sintra Mysteries",
+    "description": "The real Palácio da Pena route, through viewpoints, memorials and the hidden paths of the Sintra hills."
+  },
+  "castelo": {
+    "title": "Castle Walls",
+    "description": "Walk the real trails around the Castelo dos Mouros, the 8th-century Moorish fortress that has watched over the hills for more than a thousand years."
+  },
+  "arrabida": {
+    "title": "Arrábida Secrets",
+    "description": "The real climb to Alto do Formosinho, the highest point of the Arrábida hills, among cliffs, springs and deep blue sea."
+  },
+  "portinho": {
+    "title": "Portinho Coast",
+    "description": "A real coastal trail around Portinho da Arrábida, past the 16th-century Franciscan convent, Forte de Santa Maria and hidden beaches."
+  },
+  "monsanto": {
+    "title": "Monsanto Lookout",
+    "description": "The real loop around Monsanto's plateau, Lisbon's green lung, among viewpoints, granite boulders and stories of the city."
+  },
+  "agua": {
+    "title": "Water Ways",
+    "description": "Monsanto's real Water Route: springs, tanks and the paths that followed the water that supplied Lisbon since the Águas Livres Aqueduct."
+  }
+}

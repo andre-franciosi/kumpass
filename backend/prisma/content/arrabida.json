@@ -1,0 +1,50 @@
+{
+  "slug": "arrabida",
+  "coverage": {
+    "real": 0,
+    "override": 3,
+    "fallback": 0,
+    "total": 3
+  },
+  "pois": {
+    "1": {
+      "lore": "Um dos elevados da serra da Arrábida, coberto de medronheiros, azevinho e pinheiros-bravos. O Parque Natural da Arrábida, criado em 1976, protege aqui um dos últimos matos mediterrânicos originais de Portugal.",
+      "loreSource": "Wikipédia — Parque Natural da Arrábida",
+      "origin": "override",
+      "titleEn": "Monte Abraão Summit",
+      "loreUrl": "https://pt.wikipedia.org/wiki/Parque_Natural_da_Arr%C3%A1bida",
+      "loreEn": "One of the high points of the Arrábida hills, covered with strawberry trees, holly and Mediterranean pines. Arrábida Natural Park, created in 1976, protects one of Portugal's last patches of original Mediterranean scrubland.",
+      "loreSourceEn": "Wikipedia — Arrábida Natural Park",
+      "loreUrlEn": "https://en.wikipedia.org/wiki/Arr%C3%A1bida_Natural_Park",
+      "wikipedia": "Parque Natural da Arrábida",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Parque_Natural_da_Arr%C3%A1bida_.jpg/1280px-Parque_Natural_da_Arr%C3%A1bida_.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "imageCredit": "Wikimedia Commons"
+    },
+    "2": {
+      "lore": "O Alto do Formosinho é o teto da Serra da Arrábida, com 501 metros de altitude. Do miradouro avistam-se o cabo Espichel, o Estuário do Sado e, em dias claros, toda a costa até Sesimbra.",
+      "loreSource": "Wikipédia — Serra da Arrábida",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Pico_do_Formosinho_5.jpg/1280px-Pico_do_Formosinho_5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": "Ivan Ruggiero — CC BY-SA 4.0",
+      "origin": "override",
+      "titleEn": "Formosinho Peak",
+      "loreUrl": "https://pt.wikipedia.org/wiki/Serra_da_Arr%C3%A1bida",
+      "loreEn": "Alto do Formosinho is the roof of the Arrábida hills at 501 metres. From the viewpoint you can see Cape Espichel, the Sado estuary and, on clear days, the whole coast down to Sesimbra.",
+      "loreSourceEn": "Wikipedia — Arrábida Mountains",
+      "loreUrlEn": "https://en.wikipedia.org/wiki/Arr%C3%A1bida_Mountains"
+    },
+    "3": {
+      "lore": "Nascente entre medronheiros e pinheiros-bravos. A água sempre marcou a vida na serra: conventos e pastores dependiam de fontes como esta nos meses secos do verão mediterrânico.",
+      "loreSource": "ICNF — Parque Natural da Arrábida",
+      "origin": "override",
+      "titleEn": "Fonte do Veado Spring",
+      "loreEn": "A spring among strawberry trees and Mediterranean pines. Water has always shaped life in these hills: convents and shepherds depended on springs like this through the dry Mediterranean summer months.",
+      "loreSourceEn": "ICNF — Arrábida Natural Park"
+    }
+  },
+  "quest": {
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Parque_Natural_da_Arr%C3%A1bida_.jpg/1280px-Parque_Natural_da_Arr%C3%A1bida_.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "imageCredit": "Wikimedia Commons",
+    "titleEn": "Arrábida Secrets",
+    "descriptionEn": "The real climb to Alto do Formosinho, the highest point of the Arrábida hills, among cliffs, springs and deep blue sea."
+  }
+}

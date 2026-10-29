@@ -1,0 +1,170 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model User {
+  id          String           @id @default(uuid())
+  email       String           @unique
+  name        String
+  /// Utilizador de demonstração com GPS simulado (não usar em produção).
+  isTest      Boolean          @default(false)
+  progress    UserProgress[]
+  checkpoints UserCheckpoint[]
+  rewards     UserReward[]
+  reviews     Review[]
+  messages    TrailMessage[]
+  messageLikes TrailMessageLike[]
+  messageReports TrailMessageReport[]
+}
+
+model Quest {
+  id              String         @id @default(uuid())
+  title           String
+  titleEn         String?
+  description     String
+  descriptionEn   String?
+  region          String // Sintra | Arrabida | Monsanto
+  distanceKm      Float          @default(0)
+  durationMin     Int            @default(0)
+  elevationGainM  Int            @default(0)
+  terrainFactor   Float          @default(1.0)
+  imageUrl        String?
+  imageCredit     String?
+  trackPoints     Json?
+  regionBounds    Json?
+  ratingAvg       Float          @default(0)
+  ratingCount     Int            @default(0)
+  checkpoints     Checkpoint[]
+  progress        UserProgress[]
+  reviews         Review[]
+  messages        TrailMessage[]
+}
+
+model TrailMessage {
+  id          String   @id @default(uuid())
+  questId     String
+  userId      String
+  category    String // dica | aviso | perigo
+  text        String
+  lat         Float
+  lng         Float
+  createdAt   DateTime @default(now())
+  expiresAt   DateTime?
+  likeCount   Int      @default(0)
+  reportCount Int      @default(0)
+  quest       Quest    @relation(fields: [questId], references: [id], onDelete: Cascade)
+  user        User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  likes       TrailMessageLike[]
+  reports     TrailMessageReport[]
+
+  @@index([questId, createdAt])
+}
+
+model TrailMessageLike {
+  id        String       @id @default(uuid())
+  messageId String
+  userId    String
+  createdAt DateTime     @default(now())
+  message   TrailMessage @relation(fields: [messageId], references: [id], onDelete: Cascade)
+  user      User         @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@unique([userId, messageId])
+}
+
+model TrailMessageReport {
+  id        String       @id @default(uuid())
+  messageId String
+  userId    String
+  createdAt DateTime     @default(now())
+  message   TrailMessage @relation(fields: [messageId], references: [id], onDelete: Cascade)
+  user      User         @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@unique([userId, messageId])
+}
+
+model Review {
+  id        String   @id @default(uuid())
+  userId    String
+  questId   String
+  rating    Int
+  comment   String?
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+  user      User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  quest     Quest    @relation(fields: [questId], references: [id], onDelete: Cascade)
+
+  @@unique([userId, questId])
+  @@index([questId])
+}
+
+model Checkpoint {
+  id           String           @id @default(uuid())
+  questId      String
+  quest        Quest            @relation(fields: [questId], references: [id], onDelete: Cascade)
+  order        Int
+  title        String
+  titleEn      String?
+  lore         String
+  loreEn       String?
+  loreSource   String?
+  loreSourceEn String?
+  loreUrl      String?
+  loreUrlEn    String?
+  imageUrl     String?
+  imageCredit  String?
+  lat          Float
+  lng          Float
+  radiusMeters Int              @default(50)
+  unlocks      UserCheckpoint[]
+
+  @@index([questId])
+}
+
+model UserProgress {
+  id              String   @id @default(uuid())
+  userId          String
+  questId         String
+  completed       Boolean  @default(false)
+  sunnyCompletion Boolean  @default(false)
+  updatedAt       DateTime @updatedAt
+  user      User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  quest     Quest    @relation(fields: [questId], references: [id], onDelete: Cascade)
+
+  @@unique([userId, questId])
+}
+
+model UserCheckpoint {
+  id           String     @id @default(uuid())
+  userId       String
+  checkpointId String
+  unlockedAt   DateTime   @default(now())
+  user         User       @relation(fields: [userId], references: [id], onDelete: Cascade)
+  checkpoint   Checkpoint @relation(fields: [checkpointId], references: [id], onDelete: Cascade)
+
+  @@unique([userId, checkpointId])
+}
+
+model Reward {
+  id      String       @id @default(uuid())
+  title   String
+  partner String
+  code    String
+  stock   Int
+  claimed UserReward[]
+}
+
+model UserReward {
+  id        String   @id @default(uuid())
+  userId    String
+  rewardId  String
+  claimedAt DateTime @default(now())
+  user      User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  reward    Reward   @relation(fields: [rewardId], references: [id])
+
+  @@unique([userId, rewardId])
+}

@@ -1,0 +1,59 @@
+{
+  "slug": "agua",
+  "coverage": {
+    "real": 0,
+    "override": 4,
+    "fallback": 0,
+    "total": 4
+  },
+  "pois": {
+    "1": {
+      "lore": "A água moldou Monsanto: tanques, fontes e o vizinho Aqueduto das Águas Livres, concluído em 1748, que durante quase dois séculos abasteceu Lisboa. A pista florestal segue por entre pinheiros no espírito dessa memória.",
+      "loreSource": "Wikipédia — Aqueduto das Águas Livres",
+      "origin": "override",
+      "titleEn": "São Domingos Forest Track",
+      "loreUrl": "https://pt.wikipedia.org/wiki/Aqueduto_das_%C3%81guas_Livres",
+      "loreEn": "Water shaped Monsanto: tanks, springs and the nearby Águas Livres Aqueduct, completed in 1748, which supplied Lisbon for nearly two centuries. This forest track winds through pine trees in that spirit.",
+      "loreSourceEn": "Wikipedia — Águas Livres Aqueduct",
+      "loreUrlEn": "https://en.wikipedia.org/wiki/%C3%81guas_Livres_Aqueduct",
+      "wikipedia": "Aqueduto das Águas Livres",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Aqueduto_das_%C3%81guas_Livres2.JPG/1280px-Aqueduto_das_%C3%81guas_Livres2.JPG?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "imageCredit": "Wikimedia Commons"
+    },
+    "2": {
+      "lore": "A Mata de São Domingos de Benfica é um dos recantos mais sombrios do Parque Florestal: pinheiros maduros, sombra constante e pistas tranquilas para caminhar longe do trânsito da cidade.",
+      "loreSource": "Wikipédia — Parque Florestal de Monsanto",
+      "origin": "override",
+      "titleEn": "São Domingos de Benfica Woods",
+      "loreUrl": "https://pt.wikipedia.org/wiki/Parque_Florestal_de_Monsanto",
+      "loreEn": "São Domingos de Benfica woods are one of the shadiest corners of the Forest Park: mature pines, constant shade and quiet tracks to walk far from the city's traffic.",
+      "loreSourceEn": "Wikipedia — Monsanto Forest Park",
+      "loreUrlEn": "https://en.wikipedia.org/wiki/Monsanto_Forest_Park",
+      "wikipedia": "Parque Florestal de Monsanto",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Parque_Florestal_de_Monsanto_%28Lisboa%29.jpg/1280px-Parque_Florestal_de_Monsanto_%28Lisboa%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "imageCredit": "Wikimedia Commons"
+    },
+    "3": {
+      "lore": "Um dos ângulos mais generosos da colina: o Tejo alarga até ao mar e as antenas de telecomunicações partilham o cume com os penedos de granito de Monsanto. É o último alto antes de o trilho voltar a descer.",
+      "loreSource": "Curadoria Kumpas (toponímia local)",
+      "origin": "override",
+      "titleEn": "Serafina Heights",
+      "loreEn": "One of the hill's most generous angles: the Tagus widens towards the sea and telecom antennas share the summit with Monsanto's granite boulders. It is the last high point before the trail descends again.",
+      "loreSourceEn": "Kumpas curation (local toponymy)"
+    },
+    "4": {
+      "lore": "O Parque Recreativo da Serafina é o ponto de encontro das famílias em Monsanto: merendas, sombra e espaço para correr. Deste parque parte uma das subidas mais agradáveis para o planalto.",
+      "loreSource": "Curadoria Kumpas (toponímia local)",
+      "origin": "override",
+      "titleEn": "Serafina Recreation Park",
+      "loreEn": "Serafina Recreation Park is where families meet in Monsanto: picnics, shade and room to run. One of the pleasantest climbs to the plateau starts right here.",
+      "loreSourceEn": "Kumpas curation (local toponymy)"
+    }
+  },
+  "quest": {
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Aqueduto_das_%C3%81guas_Livres2.JPG/1280px-Aqueduto_das_%C3%81guas_Livres2.JPG?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "imageCredit": "Wikimedia Commons",
+    "titleEn": "Water Ways",
+    "descriptionEn": "Monsanto's real Water Route: springs, tanks and the paths that followed the water that supplied Lisbon since the Águas Livres Aqueduct."
+  }
+}

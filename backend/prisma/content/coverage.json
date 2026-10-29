@@ -1,0 +1,44 @@
+[
+  {
+    "slug": "sintra",
+    "real": 0,
+    "override": 4,
+    "fallback": 0,
+    "total": 4
+  },
+  {
+    "slug": "arrabida",
+    "real": 0,
+    "override": 3,
+    "fallback": 0,
+    "total": 3
+  },
+  {
+    "slug": "monsanto",
+    "real": 0,
+    "override": 4,
+    "fallback": 0,
+    "total": 4
+  },
+  {
+    "slug": "castelo",
+    "real": 0,
+    "override": 4,
+    "fallback": 0,
+    "total": 4
+  },
+  {
+    "slug": "portinho",
+    "real": 0,
+    "override": 2,
+    "fallback": 0,
+    "total": 2
+  },
+  {
+    "slug": "agua",
+    "real": 0,
+    "override": 4,
+    "fallback": 0,
+    "total": 4
+  }
+]

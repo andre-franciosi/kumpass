@@ -1,0 +1,59 @@
+{
+  "slug": "monsanto",
+  "coverage": {
+    "real": 0,
+    "override": 4,
+    "fallback": 0,
+    "total": 4
+  },
+  "pois": {
+    "1": {
+      "lore": "Os moinhos de vento marcaram os altos de Monsanto: moeram o trigo que abastecia Lisboa durante séculos. Junto ao Moinho das Três Cruzes, o miradouro abre a cidade até ao Tejo.",
+      "loreSource": "Wikipédia — Parque Florestal de Monsanto",
+      "origin": "override",
+      "titleEn": "Três Cruzes Windmill Viewpoint",
+      "loreUrl": "https://pt.wikipedia.org/wiki/Parque_Florestal_de_Monsanto",
+      "loreEn": "Windmills once defined the tops of Monsanto: they ground the wheat that fed Lisbon for centuries. Next to the Três Cruzes mill, the viewpoint opens the city all the way to the Tagus.",
+      "loreSourceEn": "Wikipedia — Monsanto Forest Park",
+      "loreUrlEn": "https://en.wikipedia.org/wiki/Monsanto_Forest_Park",
+      "wikipedia": "Parque Florestal de Monsanto",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Parque_Florestal_de_Monsanto_%28Lisboa%29.jpg/1280px-Parque_Florestal_de_Monsanto_%28Lisboa%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "imageCredit": "Wikimedia Commons"
+    },
+    "2": {
+      "lore": "Instalação da Marinha Portuguesa no alto do Parque Florestal. Os pontos mais altos de Monsanto sempre atraíram antenas e sinais: daqui domina-se Lisboa e o corredor do Tejo, porta de saída para o Atlântico.",
+      "loreSource": "Curadoria Kumpas (toponímia local)",
+      "origin": "override",
+      "titleEn": "Navy Data & Cipher Communications Centre",
+      "loreEn": "A Portuguese Navy facility on top of the Forest Park. Monsanto's high points have always attracted antennas and signals: from here you command Lisbon and the Tagus corridor, the gateway to the Atlantic.",
+      "loreSourceEn": "Kumpas curation (local toponymy)"
+    },
+    "3": {
+      "lore": "O Parque Florestal de Monsanto nasceu nos anos 1930, quando Lisboa plantou uma floresta inteira sobre a colina de granito para travar o avanço do betão. Deste miradouro panorâmico, a cidade revela-se do castelo ao rio.",
+      "loreSource": "Wikipédia — Parque Florestal de Monsanto",
+      "origin": "override",
+      "titleEn": "Monsanto Panoramic Viewpoint",
+      "loreUrl": "https://pt.wikipedia.org/wiki/Parque_Florestal_de_Monsanto",
+      "loreEn": "Monsanto Forest Park was born in the 1930s, when Lisbon planted an entire forest over the granite hill to hold back concrete. From this panoramic viewpoint, the city unfolds from the castle to the river.",
+      "loreSourceEn": "Wikipedia — Monsanto Forest Park",
+      "loreUrlEn": "https://en.wikipedia.org/wiki/Monsanto_Forest_Park",
+      "wikipedia": "Parque Florestal de Monsanto",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Parque_Florestal_de_Monsanto_%28Lisboa%29.jpg/1280px-Parque_Florestal_de_Monsanto_%28Lisboa%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "imageCredit": "Wikimedia Commons"
+    },
+    "4": {
+      "lore": "Um dos ângulos mais generosos da colina: o Tejo alarga até ao mar e as antenas de telecomunicações partilham o cume com os penedos de granito de Monsanto. É o último alto antes de o trilho voltar a descer.",
+      "loreSource": "Curadoria Kumpas (toponímia local)",
+      "origin": "override",
+      "titleEn": "Serafina Heights",
+      "loreEn": "One of the hill's most generous angles: the Tagus widens towards the sea and telecom antennas share the summit with Monsanto's granite boulders. It is the last high point before the trail descends again.",
+      "loreSourceEn": "Kumpas curation (local toponymy)"
+    }
+  },
+  "quest": {
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Parque_Florestal_de_Monsanto_%28Lisboa%29.jpg/1280px-Parque_Florestal_de_Monsanto_%28Lisboa%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "imageCredit": "Wikimedia Commons",
+    "titleEn": "Monsanto Lookout",
+    "descriptionEn": "The real loop around Monsanto's plateau, Lisbon's green lung, among viewpoints, granite boulders and stories of the city."
+  }
+}

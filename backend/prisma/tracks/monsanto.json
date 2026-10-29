@@ -1,0 +1,348 @@
+{
+  "slug": "monsanto",
+  "relationId": 7624909,
+  "relationName": "Volta do Planalto",
+  "source": "© OpenStreetMap contributors (ODbL) — via Overpass API",
+  "trackPoints": [
+    [
+      38.736135,
+      -9.175592
+    ],
+    [
+      38.735959,
+      -9.174887
+    ],
+    [
+      38.736026,
+      -9.174136
+    ],
+    [
+      38.736435,
+      -9.173511
+    ],
+    [
+      38.736957,
+      -9.173304
+    ],
+    [
+      38.73702,
+      -9.174544
+    ],
+    [
+      38.737803,
+      -9.174816
+    ],
+    [
+      38.738444,
+      -9.175676
+    ],
+    [
+      38.738468,
+      -9.17621
+    ],
+    [
+      38.736103,
+      -9.180255
+    ],
+    [
+      38.736178,
+      -9.180544
+    ],
+    [
+      38.735914,
+      -9.180613
+    ],
+    [
+      38.734964,
+      -9.182433
+    ],
+    [
+      38.736126,
+      -9.183578
+    ],
+    [
+      38.735486,
+      -9.185167
+    ],
+    [
+      38.735466,
+      -9.185755
+    ],
+    [
+      38.736184,
+      -9.186731
+    ],
+    [
+      38.736223,
+      -9.187418
+    ],
+    [
+      38.736641,
+      -9.188262
+    ],
+    [
+      38.736643,
+      -9.189653
+    ],
+    [
+      38.737124,
+      -9.190486
+    ],
+    [
+      38.73707,
+      -9.192214
+    ],
+    [
+      38.736556,
+      -9.193492
+    ],
+    [
+      38.736268,
+      -9.192591
+    ],
+    [
+      38.735856,
+      -9.192264
+    ],
+    [
+      38.735345,
+      -9.192685
+    ],
+    [
+      38.735238,
+      -9.193106
+    ],
+    [
+      38.734877,
+      -9.192962
+    ],
+    [
+      38.734467,
+      -9.193762
+    ],
+    [
+      38.733867,
+      -9.194389
+    ],
+    [
+      38.733289,
+      -9.193949
+    ],
+    [
+      38.732797,
+      -9.19397
+    ],
+    [
+      38.732708,
+      -9.193248
+    ],
+    [
+      38.732284,
+      -9.192753
+    ],
+    [
+      38.730509,
+      -9.194235
+    ],
+    [
+      38.729234,
+      -9.190545
+    ],
+    [
+      38.728393,
+      -9.191153
+    ],
+    [
+      38.728519,
+      -9.190592
+    ],
+    [
+      38.728107,
+      -9.189996
+    ],
+    [
+      38.728144,
+      -9.1893
+    ],
+    [
+      38.728549,
+      -9.189131
+    ],
+    [
+      38.72891,
+      -9.188017
+    ],
+    [
+      38.727977,
+      -9.186818
+    ],
+    [
+      38.727966,
+      -9.186397
+    ],
+    [
+      38.728356,
+      -9.185468
+    ],
+    [
+      38.727799,
+      -9.183912
+    ],
+    [
+      38.728438,
+      -9.18282
+    ],
+    [
+      38.729463,
+      -9.182849
+    ],
+    [
+      38.729758,
+      -9.182363
+    ],
+    [
+      38.72977,
+      -9.181414
+    ],
+    [
+      38.730506,
+      -9.180268
+    ],
+    [
+      38.729843,
+      -9.180766
+    ],
+    [
+      38.729595,
+      -9.180698
+    ],
+    [
+      38.729091,
+      -9.179066
+    ],
+    [
+      38.728473,
+      -9.178631
+    ],
+    [
+      38.730029,
+      -9.177913
+    ],
+    [
+      38.730925,
+      -9.178328
+    ],
+    [
+      38.731184,
+      -9.178217
+    ],
+    [
+      38.731207,
+      -9.177811
+    ],
+    [
+      38.731536,
+      -9.177544
+    ],
+    [
+      38.731792,
+      -9.176928
+    ],
+    [
+      38.732226,
+      -9.176668
+    ],
+    [
+      38.732098,
+      -9.176122
+    ],
+    [
+      38.732579,
+      -9.175039
+    ],
+    [
+      38.733238,
+      -9.174157
+    ],
+    [
+      38.733349,
+      -9.17353
+    ],
+    [
+      38.733855,
+      -9.172652
+    ],
+    [
+      38.735593,
+      -9.175325
+    ],
+    [
+      38.735952,
+      -9.175762
+    ],
+    [
+      38.736135,
+      -9.175592
+    ]
+  ],
+  "bbox": {
+    "minLat": 38.7262993,
+    "minLng": -9.196189299999999,
+    "maxLat": 38.7399682,
+    "maxLng": -9.170852
+  },
+  "distanceKm": 6.7,
+  "elevationGainM": 207,
+  "pois": [
+    {
+      "order": 1,
+      "name": "Miradouro do Moinho das Três Cruzes",
+      "kind": "tourism=viewpoint",
+      "lore": "Um miradouro que os locais guardam como segredo. A vista explica porque esta rota é memorável.",
+      "lat": 38.737014,
+      "lng": -9.174397,
+      "radiusMeters": 75,
+      "osmType": "node",
+      "osmId": 9819657267,
+      "wiki": {}
+    },
+    {
+      "order": 2,
+      "name": "Centro de Comunicações de Dados e de Cifra da Marinha - Pólo Monsanto",
+      "kind": "tourism=information",
+      "lore": "Um ponto de paragem onde a história da região está documentada e à espera de ser descoberta.",
+      "lat": 38.731646,
+      "lng": -9.189745,
+      "radiusMeters": 60,
+      "osmType": "node",
+      "osmId": 6353136598,
+      "wiki": {}
+    },
+    {
+      "order": 3,
+      "name": "Miradouro Panorâmico do Monsanto",
+      "kind": "tourism=viewpoint",
+      "lore": "Um miradouro que os locais guardam como segredo. A vista explica porque esta rota é memorável.",
+      "lat": 38.728623,
+      "lng": -9.184612,
+      "radiusMeters": 75,
+      "osmType": "node",
+      "osmId": 9910039552,
+      "wiki": {
+        "description": "Localizado no Parque Florestal de Monsanto, nas instalações do antigo restaurante panorâmico, este miradouro, aberto ao público em setembro de 2017, tem uma vista de 360º sobre a cidade. Temporariamente encerrado."
+      }
+    },
+    {
+      "order": 4,
+      "name": "Alto da Serafina",
+      "kind": "tourism=viewpoint",
+      "lore": "Um miradouro que os locais guardam como segredo. A vista explica porque esta rota é memorável.",
+      "lat": 38.733391,
+      "lng": -9.175688,
+      "radiusMeters": 75,
+      "osmType": "node",
+      "osmId": 1668354051,
+      "wiki": {}
+    }
+  ]
+}

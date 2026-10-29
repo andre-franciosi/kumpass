@@ -1,0 +1,64 @@
+{
+  "slug": "sintra",
+  "coverage": {
+    "real": 0,
+    "override": 4,
+    "fallback": 0,
+    "total": 4
+  },
+  "pois": {
+    "1": {
+      "lore": "Ponto de partida da rede de trilhos da Pena. Daqui partem os caminhos para o Palácio da Pena e para as muralhas do Castelo dos Mouros, no coração da Paisagem Cultural de Sintra, classificada Património Mundial pela UNESCO em 1995.",
+      "loreSource": "Wikipédia — Paisagem Cultural de Sintra",
+      "origin": "override",
+      "titleEn": "Pena / Mouros / São Pedro",
+      "loreUrl": "https://pt.wikipedia.org/wiki/Paisagem_Cultural_de_Sintra",
+      "loreEn": "Starting point of the Pena trail network. From here, paths lead to the Pena Palace and to the walls of the Castelo dos Mouros, in the heart of the Sintra Cultural Landscape, a UNESCO World Heritage Site since 1995.",
+      "loreSourceEn": "Wikipedia — Sintra Cultural Landscape",
+      "loreUrlEn": "https://en.wikipedia.org/wiki/Sintra_Cultural_Landscape",
+      "wikipedia": "Palácio Nacional da Pena",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Sintra_-_Palacio_da_Pena_%2820332995770%29.jpg/1280px-Sintra_-_Palacio_da_Pena_%2820332995770%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "imageCredit": "Wikimedia Commons"
+    },
+    "2": {
+      "lore": "A lápide recorda: «A D. Fernando II, iniciador da plantação deste Parque de Aclimação Florestal (1839)». Foi D. Fernando II, o rei artista, quem mandou erguer o Palácio da Pena sobre as ruínas do antigo mosteiro hieronimite, dando a Sintra o seu ex-libris do Romantismo.",
+      "loreSource": "Inscrição no local (OSM) + Wikipédia",
+      "origin": "override",
+      "titleEn": "King Ferdinand II",
+      "loreUrl": "https://pt.wikipedia.org/wiki/Fernando_II_de_Portugal",
+      "loreEn": "The plaque reads: “To Ferdinand II, who began the planting of this Acclimatisation Forest Park (1839)”. It was Ferdinand II, the artist-king, who built the Pena Palace over the ruins of the old Hieronymite monastery, giving Sintra its Romantic masterpiece.",
+      "loreSourceEn": "On-site inscription (OSM) + Wikipedia",
+      "loreUrlEn": "https://en.wikipedia.org/wiki/Ferdinand_II_of_Portugal",
+      "wikipedia": "Fernando II de Portugal",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Ferdinand_II%2C_King_Consort_of_Portugal_1861.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "imageCredit": "Wikimedia Commons"
+    },
+    "3": {
+      "lore": "Daqui domina-se a vila histórica de Sintra e a serra que os romanos chamavam «Montanha da Lua». No alto da serra, a Cruz Alta marca os 529 metros do ponto mais alto, junto ao Palácio da Pena.",
+      "loreSource": "Wikipédia — Serra de Sintra",
+      "origin": "override",
+      "titleEn": "Vigia Viewpoint",
+      "loreUrl": "https://pt.wikipedia.org/wiki/Serra_de_Sintra",
+      "loreEn": "From here you look over the historic town of Sintra and the hills the Romans called the “Mountain of the Moon”. At the top, the Cruz Alta marks the highest point at 529 metres, next to the Pena Palace.",
+      "loreSourceEn": "Wikipedia — Sintra Mountains",
+      "loreUrlEn": "https://en.wikipedia.org/wiki/Sintra_Mountains",
+      "wikipedia": "Serra de Sintra",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Sintra_-_Palacio_da_Pena_%2820332995770%29.jpg/1280px-Sintra_-_Palacio_da_Pena_%2820332995770%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "imageCredit": "Wikimedia Commons"
+    },
+    "4": {
+      "lore": "Busto em memória do Dr. Gregorio Rafael da Silva d'Almeida, homenageado na serra de Sintra. As estátuas de rua guardam histórias de quem serviu a comunidade — aproxima-te e lê a inscrição no pedestal.",
+      "loreSource": "Curadoria Kumpas (monumento local)",
+      "origin": "override",
+      "titleEn": "Dr. Gregorio Rafael da Silva d'Almeida",
+      "loreEn": "Bust in memory of Dr. Gregorio Rafael da Silva d'Almeida, honoured in the Sintra hills. Street statues keep the stories of those who served the community — step closer and read the inscription on the pedestal.",
+      "loreSourceEn": "Kumpas curation (local monument)"
+    }
+  },
+  "quest": {
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Sintra_-_Palacio_da_Pena_%2820332995770%29.jpg/1280px-Sintra_-_Palacio_da_Pena_%2820332995770%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "imageCredit": "Wikimedia Commons",
+    "titleEn": "Sintra Mysteries",
+    "descriptionEn": "The real Palácio da Pena route, through viewpoints, memorials and the hidden paths of the Sintra hills."
+  }
+}
