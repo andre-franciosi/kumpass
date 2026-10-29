@@ -1,6 +1,6 @@
 # LinkedIn post — Kumpas
 
-> Draft in English. Replace `<REPO_URL>` with the repository link.
+> Draft in English. Replace `https://github.com/andre-franciosi/kumpass` with the repository link.
 > Suggested format: text + 4-image carousel (login, home/map, live trail, lore card).
 > Images are in `docs/screenshots/` (use 01, 02, 04, 05).
 
@@ -23,7 +23,7 @@ Stack: **Flutter** (maps, GPS, offline tiles) · **Fastify + TypeScript** · **P
 
 Tested on a real device, including a test account with simulated GPS to walk any trail from the sofa.
 
-Open source (GPL-3.0): <REPO_URL>
+Open source (GPL-3.0): https://github.com/andre-franciosi/kumpass
 
 Feedback welcome — especially from hikers and Flutter devs. What would you add next? 🥾
 
