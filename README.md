@@ -85,7 +85,7 @@ Offline data builders (no runtime dependency):
 Requirements: **Docker**, **Node.js 20+**, **Flutter 3.38+**, **GNU Make**.
 
 ```bash
-git clone https://github.com/<your-user>/kumpas.git
+git clone https://github.com/andre-franciosi/kumpass.git
 cd kumpas
 
 make setup      # install backend deps + start Postgres + migrate + seed
